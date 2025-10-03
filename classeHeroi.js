@@ -26,11 +26,11 @@ class Heroi {
 let heroi1 = new Heroi("Merlin", 100, "mago")
 console.log(heroi1.atacar())
 
-let heroi2 = new Heroi("Aragorn", 200, "guerreiro")
+let heroi2 = new Heroi("Aragorn", 40, "guerreiro")
 console.log(heroi2.atacar())
 
-let heroi3 = new Heroi("Shaolin", 210, "monge")
+let heroi3 = new Heroi("Shaolin", 35, "monge")
 console.log(heroi3.atacar())
 
-let heroi4 = new Heroi("Shuri", 300, "ninja")
+let heroi4 = new Heroi("Shuri", 25, "ninja")
 console.log(heroi4.atacar())
